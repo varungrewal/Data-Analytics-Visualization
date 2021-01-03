@@ -11,7 +11,7 @@ The goal of this project is to use Data Analytics and Visualization to:
 - Produce actionable recommendations based on gained insights
 _____
 ### Relevant Links:        
-<a href="https://www.linkedin.com/in/varungrewal/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAASBQUgBSsWDPQxx_AFTk0fVHnHtxieHDnE,1605830779614)/">Presentation</a> | <a href="https://drive.google.com/file/d/1l2E1zqmXeG9cYv9l7QVbJC11romEIzjV/view?usp=sharing">Data</a> | <a href="https://drive.google.com/file/d/1708cQKd6_7WzljclAtiOJhk6zb2e8lZs/view?usp=sharing">Meta Data</a> 
+<a href="https://github.com/varungrewal/Data-Analytics-Visualization/blob/main/Presentation%20-%20Data%20Analytics%20%26%20Visualization%20By%20Varun%20Grewal.pdf">Presentation</a> | <a href="https://drive.google.com/file/d/1l2E1zqmXeG9cYv9l7QVbJC11romEIzjV/view?usp=sharing">Data</a> | <a href="https://drive.google.com/file/d/1708cQKd6_7WzljclAtiOJhk6zb2e8lZs/view?usp=sharing">Meta Data</a> 
 _____
 ### Tools Used: 
 __Tool:__ Jupyter Notebook | __Language:__ Python       
